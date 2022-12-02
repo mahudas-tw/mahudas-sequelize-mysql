@@ -1,0 +1,1 @@
+# mahudas-sequelize-mysql
